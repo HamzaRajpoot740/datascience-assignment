@@ -34,7 +34,7 @@ Ans :  yes google giving alot suggestion according to your introduction to analy
 
 9 : Do all search engines return the same result?
 
-Ans : No 
+Ans : No its something different 
 
 10 : Which site is listed in the top 5 results of all 3 search engines ?
 
